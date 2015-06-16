@@ -1,2 +1,3 @@
 # michidk.github.io
-this is jsut the sourcecode for my github page
+you can ingnore this repo.
+this is just the code for my simple github page.
